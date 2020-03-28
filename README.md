@@ -1,7 +1,7 @@
 # Submission to BVM Data Science Cup 2017
 This repository contains the python scripts I used for my submission to the [BVM Data Science Cup 2017](https://bvm.org/datasciencecup2017/). My solution ranked 3rd - of five submissions, so there is a lot room for improvements (see below).
 
-The code is generally messy and not consistently documented. While I will not work on the code itself, I might add more reasonable comments and docstrigs to the code in the next weeks.
+The code is generally messy and not consistently documented. While I will not work on the code itself, I might add more reasonable comments and docstrings to the code in the next weeks.
 
 ## Requirements
 See `requirements.txt`, but generally:
